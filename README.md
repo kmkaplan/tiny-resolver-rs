@@ -1,8 +1,10 @@
 tiny-resolver-rs
 ================
 
-Inspired by Julia Evans' [A toy DNS resolver], I decided to Rewrite It
-In Rust. Julia's repository is https://github.com/jvns/tiny-resolver
+Inspired by Julia Evans' [A toy DNS
+resolver](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/),
+I decided to Rewrite It In Rust. Julia's repository is
+https://github.com/jvns/tiny-resolver
 
 Pulling from the repository then compiling should be straigthforward.
 
